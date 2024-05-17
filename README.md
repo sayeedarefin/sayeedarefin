@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hello 👋, I'm Sayeed</h1>
 <h3 align="center">A passionate web developer, Python and ROS enthusiast</h3>
